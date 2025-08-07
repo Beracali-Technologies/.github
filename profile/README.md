@@ -1,5 +1,5 @@
 ## Beracali Technologies
-** Beracali Technologies ** is a bold tech company building scalable, user-driven platforms that solve real-world problems in Africa.
+**Beracali Technologies** is a bold tech company building scalable, user-driven platforms that solve real-world problems in Africa.
 
 ** 💸 WakalaTel**  – A fintech solution for mobile money agents, enabling seamless transaction tracking, profit insights, and smarter operations.
 
