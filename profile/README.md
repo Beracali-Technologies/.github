@@ -1,9 +1,8 @@
-## Beracali Technologies 
-is a bold tech company on a mission to become the next billion-dollar company 🚀.
-We build scalable, user-driven platforms that solve real-world problems.
+## Beracali Technologies
+** Beracali Technologies ** is a bold tech company building scalable, user-driven platforms that solve real-world problems in Africa.
 
-**💸 WakalatTel** – A fintech solution built for wakala agents, enabling seamless transaction tracking, profit insights, and smarter mobile money operations.
+** 💸 WakalaTel**  – A fintech solution for mobile money agents, enabling seamless transaction tracking, profit insights, and smarter operations.
 
-**🎟️ KikaoConnect** – A smart event management platform with QR-based registration, attendance tracking, and real-time engagement tools.
+** 🎟️ KikaoConnect ** – A smart event management platform offering QR-based registration, real-time badge printing, and attendance tracking.
 
-We don’t just build apps—we build ecosystems. 💡
+We don’t just build apps — we build ecosystems designed for growth, automation, and long-term impact. 💡
