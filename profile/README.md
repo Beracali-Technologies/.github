@@ -16,6 +16,7 @@ Our expertise spans:
 **Automation & Smart Systems**
 
 Our Products
+
 **💸 WakalaTel**
 
 A fintech solution for mobile money agents, enabling seamless transaction tracking, profit insights, and smarter operations.
