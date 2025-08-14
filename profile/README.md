@@ -5,7 +5,7 @@ Welcome to the official GitHub repository of Beracali Technologies Company Limit
 
 We are a Tanzanian technology solutions provider dedicated to creating innovative, reliable, and scalable digital platforms for businesses, organizations, and communities across Africa.
 
-Our expertise spans:
+## Our expertise spans:
 
 **Custom Software Development**
 
